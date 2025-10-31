@@ -18,3 +18,5 @@ build/
 # Arquivos de ambiente (segurança)
 .env
 .env.*
+
+package-lock.json
