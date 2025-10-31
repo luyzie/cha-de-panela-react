@@ -1,0 +1,20 @@
+# Arquivos do Node
+node_modules/
+npm-debug.log
+
+# Arquivos do Vite
+dist/
+.vite/
+
+# Arquivos de Sistema
+.DS_Store
+
+# Arquivos de build
+build/
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente (segurança)
+.env
+.env.*
